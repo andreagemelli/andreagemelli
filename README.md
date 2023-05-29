@@ -20,7 +20,7 @@ I used to work on Machine Learning 🧠, Games 🕹️ and Softwares 💾
 ### During MCS
 
 <ul>
- <li> 🧠 <b>Action-recognition-by-2D-skeleton-analysis</b>: a computer vision project to recognize actions in a scene, analyzing the movement of people skeleton. (🔗 <a href="https://github.com/andreagemelli/Action-recognition-by-2D-skeleton-analysis">repo</a> | 📄 <a href="https://drive.google.com/file/d/1-01CTL-k6WWqx98tIsMKwPpJXTKMv4dG/view?usp=sharing">report</a>)
+ <li> 🧠 <b>Action-recognition-by-2D-skeleton-analysis</b>: a computer vision project to recognize actions in a scene, analyzing the movement of people skeleton. (🔗 <a href="https://github.com/andreagemelli/Action-recognition-by-2D-skeleton-analysis">repo</a> | 📄 <a href="https://drive.google.com/file/d/1yECSugcqAJb45LQHi9vpSeKmtnb5NHVk/view?usp=sharing">report</a>)
  <li> 🧠 <b>Flying-Objects-Detection-and-Recognition: a computer vision project aiming at detecting UAVs in airport spaces. (🔗 <a href="https://github.com/andreagemelli/Flying-Objects-Detection-and-Recognition">repo</a> | 📄 <a href="https://drive.google.com/file/d/1Uvw1y5_0kJhcN2HuGcNBxO5zeKJACSOX/view?usp=sharing">report</a>)</li>
  <li> 🧠 <b>Floorplan-Text-Detection-and-Recognition</b>: automatic detection and recognition of text in floorplan images, e.g. rooms' names (🔗 <a href="https://github.com/andreagemelli/Floorplan-Text-Detection-and-Recognition">repo</a> | 📄 <a href="https://drive.google.com/file/d/18L63UVQBivzCFA9xcP_imn7Hd6HP1Tws/view?usp=share_link">report</a>) </li>
  <li> 💾 <b>lapis</b>: a tool to organize professors and students meetings (🔗 <a href="https://github.com/andreagemelli/lapis">repo</a> | 📄 <a href="https://drive.google.com/file/d/1u38wj37tNZgt7WIIwjBcQqH9VG0aFYA8/view?usp=share_link">report</a>) </li>
@@ -32,7 +32,7 @@ I used to work on Machine Learning 🧠, Games 🕹️ and Softwares 💾
 ### During free time
 
 <ul>
- <li> 🕹️ <b>FightGPT</b>: an RPG game developed using ChatGPT (🔗 <a href="https://github.com/andreagemelli/Escape-Room-VR">repo</a>) </li>
+ <li> 🕹️ <b>FightGPT</b>: an RPG game developed using ChatGPT (🔗 <a href="https://github.com/andreagemelli/FightGPT">repo</a>) </li>
  <li> 💾 <b>andreagemelli.github.io</b>: my portoflio website (🔗 <a href="https://github.com/andreagemelli/andreagemelli.github.io ">repo</a>) </li> 
 </ul>
 
