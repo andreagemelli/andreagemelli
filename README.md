@@ -44,7 +44,7 @@ Get to know more about me on my <a href="https://www.andreagemelli.me">Web Page<
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_andrewtwins) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-gemelli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a_gemelli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Andr3aGemelli)
 
 ### Visit Counter
-[![](https://visitcount.itsvg.in/api?id=andreagemelli&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=andreagemelli&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
